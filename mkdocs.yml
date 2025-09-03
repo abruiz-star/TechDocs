@@ -1,0 +1,6 @@
+site_name: "Documentación de prueba"
+site_description: "Docs generados con TechDocs"
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core

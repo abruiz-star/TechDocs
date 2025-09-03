@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: docs
+  description: "Documentación de prueba con TechDocs"
+spec:
+  type: documentation
+  owner: team
+  lifecycle: experimental

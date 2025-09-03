@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: docs
   description: "Documentación de prueba con TechDocs"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   owner: team

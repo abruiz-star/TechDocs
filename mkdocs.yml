@@ -1,5 +1,7 @@
 site_name: "Documentación de prueba"
 site_description: "Docs generados con TechDocs"
+site_url: "https://abruiz-star.github.io/TechDocs/"   # 👈 URL exacta de GitHub Pages
+use_directory_urls: false 
 nav:
   - Home: index.md
 plugins:
